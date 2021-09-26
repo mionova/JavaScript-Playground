@@ -1,0 +1,66 @@
+<!-- Bouncy Ball with Edge Detection -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <div id="ball" style="
+  z-index:5;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:50px;
+  height:50px;
+  border-radius:50%;
+  background:green"></div>
+  <script>
+    var velocityX = Math.floor(Math.random() * 100) / 60;
+    var velocityY = Math.floor(Math.random() * 100) / 60;
+    var positionX = 0;
+    var positionY = 0;
+    var ball = document.getElementById('ball');
+
+    var widthX = 300;
+    var widthY = 300;
+
+    /* to use the browser window instead
+     var width = window.innerWidth;
+     console.log(width);
+    */
+
+    // movement maniputlation
+    function movement() {
+      //move the ball
+      positionX = positionX + velocityX;
+      positionY = positionY + velocityY;
+
+      ball.style.left = positionX + 'px';
+      ball.style.top = positionY + 'px';
+
+      //change color
+      const randomColor = Math.floor(Math.random() * 16777215).toString(16);
+
+      if (positionX > (widthX - 50) || (positionX < 0)) {
+        velocityX = -velocityX;
+        ball.style.background = "#" + randomColor;
+      }
+
+      if (positionY > (widthY - 50) || (positionY < 0)) {
+        velocityY = -velocityY;
+        ball.style.background = "#" + randomColor;
+      }
+    }
+
+    setInterval(movement, 5);
+  </script>
+</body>
+
+</html>
