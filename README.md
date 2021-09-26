@@ -9,5 +9,5 @@ A repo with small JavaScript projects and code snippets that I have built to get
 
 ## Code Snippets
 
-[Loop on array](https://github.com/mionova/JavaScript-Playground/tree/main/code-snippets/loop-on-an-array)   
+[Array flattener](https://github.com/mionova/JavaScript-Playground/tree/main/code-snippets/array-flattener)   
 &nbsp; 
