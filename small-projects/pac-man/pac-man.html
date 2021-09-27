@@ -45,13 +45,9 @@ Pac Man exercise
 
     // This function determines the direction of PacMan based on screen edge detection. 
     function checkPageBounds(direction, imgWidth, pos, pageWidth) {
+        var pageWidth = window.innerWidth;
 
-        //this does not work
-        // if (pos > (pageWidth - imgWidth)) {
-        //   direction = 1;
-        // }
-
-        if (pos > window.innerWidth - imgWidth) {
+        if (pos > (pageWidth - imgWidth)) {
             direction = 1;
         }
 
