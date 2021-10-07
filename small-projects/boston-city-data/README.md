@@ -10,7 +10,7 @@ Total Earned
 &nbsp;  
 
 **Problem 2:**  
-The goal of this exercise is to pick out the top 5 earners in Boston (total salary + overtime) and list them out in the web page as shown below:     
+Pick out the top 5 earners in Boston (total salary + overtime) and list them out in the web page as shown below:     
 Name     
 Total Earned
   
@@ -18,7 +18,7 @@ Total Earned
 &nbsp;  
 
 **Problem 3:**  
-Next, pick out the number of people working in the city of Boston who earn over $200,000 and display it on the web page as shown below:      
+Pick out the number of people working in the city of Boston who earn over $200,000 and display it on the web page as shown below:      
 Name     
 Total Earned 
   
