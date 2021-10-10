@@ -1,6 +1,6 @@
-# JavaScript-Playground
+# JavaScript Playground
 
-A repo with small JavaScript projects and code snippets that I have built to get more practice.
+A collection of projects and code snippets from my JavaScript training.
 &nbsp; 
 
 ## Small Projects
@@ -16,5 +16,6 @@ A repo with small JavaScript projects and code snippets that I have built to get
 
 ## Code Snippets
 
-[Funcions, array-manipulation, and scope](https://github.com/mionova/JavaScript-Playground/tree/main/code-snippets/funcions-array-manipulation-and-scope)   
+[Functions, array manipulation, and scope](https://github.com/mionova/JavaScript-Playground/tree/main/code-snippets/funcions-array-manipulation-and-scope) 
+<!-- Typo in the folder name (funcions should read functions)-->
 &nbsp; 
