@@ -1,6 +1,6 @@
 # JavaScript Playground
 
-A collection of JavaScript projects and code snippets from my training.
+A collection of projects and code snippets from my JavaScript training.
 &nbsp; 
 
 ## Small Projects
