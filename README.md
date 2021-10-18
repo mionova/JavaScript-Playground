@@ -11,7 +11,7 @@ A collection of projects and exercises from my JavaScript training.
 
 [Pac-Man excercise](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/pac-man)  
 
-## Functions, array-manipulation, and scope exercises
+## Exercises
 
 [Array manipulation](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/01-array-manipulation)  
 
@@ -27,7 +27,7 @@ A collection of projects and exercises from my JavaScript training.
 
 [Passing functions by reference](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/07-passing-functions-by-reference)  
 
-[Callback functions](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/08-callback%20function)  
+[Callback](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/08-callback%20function)  
 
 [forEach](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/09-forEach)  
 
