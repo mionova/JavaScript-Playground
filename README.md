@@ -19,9 +19,7 @@ A collection of projects and exercises from my JavaScript training.
 
 [Using export and import](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/03-using-export-and-import)  
 
-[Arrow functions](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/04-arrow-functions)  
-
-[Arrow functions](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/04-arrow-functions)  
+[Arrow functions](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/04-arrow-functions) 
 
 [ES6 Modules](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/05-es6modules)  
 
@@ -29,7 +27,7 @@ A collection of projects and exercises from my JavaScript training.
 
 [Passing functions by reference](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/07-passing-functions-by-reference)  
 
-[Callback functions](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/08-callback-functions)  
+[Callback functions](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/08-callback%20function)  
 
 [forEach](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/09-forEach)  
 
