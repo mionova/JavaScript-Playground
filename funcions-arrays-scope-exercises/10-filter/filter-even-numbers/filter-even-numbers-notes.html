@@ -1,0 +1,40 @@
+<!--***************
+Filter-even-numbers
+****************-->
+
+<!--
+Problem: 
+Create a function called filterArray that take two arguments:
+myArray: An array of numbers.
+isEvenCallBack: A function that returns the Boolean true if a number is even, and returns false if it's odd.
+The task is to implement the isEvenCallBack function and then pass it as a callback function into filterArray. The function filterArray should then return an array containing only even numbers.
+-->
+
+<!DOCTYPE html>
+<html>
+<script>
+  // This is the array that contains numbers to work with
+  var myArray = [1, 2, 5, 6, 12, 23, 15, 31];
+
+  // This array should only contain even numbers
+  var evenArray = [];
+
+  // Call filterArray when the page loads up
+  window.onload = () => {
+    console.log(filterArray(myArray, isEvenCallBack));
+  };
+
+  function filterArray(myArray, isEvenCallBack) {
+    //If the number is even, add it to the array 'evenArray'
+    evenArray = myArray.filter(isEvenCallBack);
+
+    return evenArray;
+  }
+
+  // This function should return 'true' if a number is even and 'false' if a number is odd
+  function isEvenCallBack(number) {
+    return (number % 2 == 0);
+  }
+</script>
+
+</html>
