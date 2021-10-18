@@ -13,22 +13,22 @@ A collection of projects and exercises from my JavaScript training.
 
 ## Exercises
 
-[Array manipulation](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/01-array-manipulation)  
+[Array manipulation](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/01-array-manipulation)  
 
-[Array flattener](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/02-array-flattener)  
+[Array flattener](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/02-array-flattener)  
 
-[Using export and import](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/03-using-export-and-import)  
+[Using export and import](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/03-using-export-and-import)  
 
-[Arrow functions](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/04-arrow-functions) 
+[Arrow functions](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/04-arrow-functions) 
 
-[ES6 Modules](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/05-es6modules)  
+[ES6 Modules](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/05-es6modules)  
 
-[Scope of variables](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/06-scope-of-variables)  
+[Scope of variables](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/06-scope-of-variables)  
 
-[Passing functions by reference](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/07-passing-functions-by-reference)  
+[Passing functions by reference](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/07-passing-functions-by-reference)  
 
-[Callback](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/08-callback%20function)  
+[Callback](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/08-callback%20function)  
 
-[forEach](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/09-forEach)  
+[forEach](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/09-forEach)  
 
-[filter](https://github.com/mionova/JavaScript-Playground/tree/main/functions-arrays-scope-exercises/10-filter)  
+[filter](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/10-filter)  
