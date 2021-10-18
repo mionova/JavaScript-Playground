@@ -29,6 +29,6 @@ A collection of projects and exercises from my JavaScript training.
 
 [Callback](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/08-callback%20function)  
 
-[forEach](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/09-forEach)  
+[forEach(callback)](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/09-forEach)  
 
-[filter](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/10-filter)  
+[filter(callback)](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/10-filter)  
