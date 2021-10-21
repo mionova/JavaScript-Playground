@@ -1,5 +1,5 @@
-# wordCount
-=======
-Count word occurance in long string
+## wordCount
+Count word occurrence in a long string  
+
 <img src='wordCount.png' />
 

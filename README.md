@@ -11,7 +11,7 @@ A collection of projects and exercises from my JavaScript training.
 
 [Pac-Man excercise](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/pac-man)
 
-[Count word occurance in a paragraph](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/word-count)    
+[Count word occurrence in a paragraph](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/word-count)    
 
 ## Exercises
 
@@ -39,4 +39,4 @@ A collection of projects and exercises from my JavaScript training.
 
 [map(callback)](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/12-map)     
 
-[reduce](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/13-reduce)  
+[reduce(callback)](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/13-reduce)  
