@@ -1,12 +1,15 @@
-//results from the consoles
+/*****************************
+Passing functions by reference
+*****************************/
 
+//results from the consoles
 
 f1 = function (x) {
   console.log(`f1:${x}`);
 }
 
 f1('hey');
-// f1:hey
+//f1:hey
 //undefinded
 f1(37);
 //f1(37)

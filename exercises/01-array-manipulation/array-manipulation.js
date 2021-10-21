@@ -1,5 +1,15 @@
-// Step 1: use slice to find elements in an array
-//TODO: return last 3 elements of givenArray
+/*****************
+Array Manipulation
+*****************/
+
+/*
+Task:
+  Practics slice, splice, and split
+*/
+
+
+// Step 1: slice
+//return last 3 elements of givenArray
 function sliceElements(givenArray) {
 
   let arrayLength = givenArray.length;
@@ -7,16 +17,16 @@ function sliceElements(givenArray) {
   return givenArray.slice(arrayLength - 3, arrayLength);
 }
 
-// Step 2: use splice to find elements in an array
-//TODO: remove the last element of givenArray and add element1 and element2 at that position
+// Step 2: splice
+//remove the last element of givenArray and add element1 and element2 at that position
 function spliceElements(givenArray, element1, element2) {
   let arrayLength = givenArray.length;
   givenArray.splice(arrayLength - 1, 1, element1, element2);
   return givenArray;
 }
 
-// Step 3: use splice to find elements in an array
-//TODO: convert givenString into an array of words
+// Step 3: split
+//convert givenString into an array of words
 function splitElements(givenString) {
   let newArray;
   newArray = givenString.split(' ');

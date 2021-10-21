@@ -1,0 +1,27 @@
+<!--*************
+Map Callback
+**************-->
+
+<!--
+Task: 
+Map a callback function onto the elements of an array. Preview the new array in the console.
+-->
+
+<!DOCTYPE html>
+<html>
+<script>
+    // basic list of numbers
+    var numbers = [1, 4, 9, 16, 25];
+
+    function squareRoot(number) {
+        return Math.sqrt(number);
+    }
+
+    // roots using map and callback
+    var roots = numbers.map(squareRoot);
+
+    // inspect array
+    console.log(JSON.stringify(roots));
+</script>
+
+</html>

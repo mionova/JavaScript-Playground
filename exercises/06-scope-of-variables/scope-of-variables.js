@@ -1,3 +1,8 @@
+/*****************
+Scope of variables
+*****************/
+
+
 const x = 99;
 
 function f1() {

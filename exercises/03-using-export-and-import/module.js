@@ -1,3 +1,13 @@
+/**********************
+Using export and import
+**********************/
+
+/*
+Task:
+  See README.md
+*/
+
+
 //good practice to wrap up in an object the functions we are exporting
 
 const funcs = {

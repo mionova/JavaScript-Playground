@@ -9,7 +9,9 @@ A collection of projects and exercises from my JavaScript training.
 
 [Bouncy ball with edge detection](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/bouncy-ball)  
 
-[Pac-Man excercise](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/pac-man)  
+[Pac-Man excercise](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/pac-man)
+
+[Count word occurance in a paragraph](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/word-count)    
 
 ## Exercises
 
@@ -27,8 +29,14 @@ A collection of projects and exercises from my JavaScript training.
 
 [Passing functions by reference](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/07-passing-functions-by-reference)  
 
-[Callback](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/08-callback%20function)  
+[Callback](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/08-callback-function)  
 
 [forEach(callback)](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/09-forEach)  
 
-[filter(callback)](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/10-filter)  
+[filter(callback)](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/10-filter)   
+
+[sort(callback)](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/11-sort)     
+
+[map(callback)](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/12-map)     
+
+[reduce](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/13-reduce)  

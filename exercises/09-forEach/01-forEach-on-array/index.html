@@ -1,0 +1,58 @@
+<!--*************************
+forEach() Method - exercise 1 
+**************************-->
+
+<!--
+Problem: 
+Pass a callback into a forEach function to iterate through the items in the array. Calculate the total of all the salaries.
+-->
+
+</DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+    const employees = [{
+            name: 'peter',
+            salary: '100000'
+        },
+        {
+            name: 'bruice',
+            salary: '125000'
+        },
+        {
+            name: 'hanna',
+            salary: '250000'
+        },
+    ]
+
+    var salaries = 0;
+
+    function add(item, counter, array) {
+        salaries += Number(item.salary);
+    }
+
+    employees.forEach(add);
+    console.log(salaries);
+</script>
+
+<body>
+    <script>
+
+    </script>
+</body>
+
+</html>
+
+<!--
+Notes: 
+forEach is a built-in method for the array object. What it does is, it calls a function one time for each element in the array.
+employees.forEach will call the function add for each element of the array.There are three parameters that the forEach method will pass in: item, counter, array.
+forEach method looks to the array and for each time it calls the function, it will pass in the item, the index, and also creates a reference to the entire array. 
+The same behavior can be duplicated with a for loop, but this is used for simplicity, since it is a built-in-method. 
+-->
