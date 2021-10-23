@@ -32,13 +32,15 @@ A collection of small projects and exercises from my JavaScript training.
 
 [Callback](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/08-callback-function)  
 
-[forEach(callback)](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/09-forEach)  
+[forEach()](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/09-forEach)  
 
-[filter(callback)](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/10-filter)   
+[filter()](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/10-filter)   
 
-[sort(callback)](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/11-sort)     
+[sort()](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/11-sort)     
 
-[map(callback)](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/12-map)     
+[map()](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/12-map)     
 
-[reduce(callback)](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/13-reduce)
+[reduce()](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/13-reduce)     
+
+[Unit Testing in JavaScript with Jest](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/14-jest)
 &nbsp;   
