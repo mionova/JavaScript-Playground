@@ -12,6 +12,6 @@ When the installation is complete, go to package.json file and under scripts, ch
 
 To verify that Jest has been properly installed (and to run the the actual tests later), run **npm test**.
 
-[View Jest tests](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/14-jest/js)  
+[View Jest tests](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/14-jest/01-jest-test-sum-subtract-multiply-clone/js)  
 
-[View Jest test report](https://github.com/mionova/JavaScript-Playground/blob/main/exercises/14-jest/coverage/lcov-report/index.html)  
+[View Jest test report](https://github.com/mionova/JavaScript-Playground/blob/main/exercises/14-jest/01-jest-test-sum-subtract-multiply-clone/coverage/lcov-report/index.html)  
