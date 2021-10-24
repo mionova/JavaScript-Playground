@@ -1,3 +1,8 @@
+/*****************************************************
+Jest testing - sum, substract, multiply, array cloning
+*****************************************************/
+
+
 const sum = require('./sum')
 
 //testing 1 + 2 === 3

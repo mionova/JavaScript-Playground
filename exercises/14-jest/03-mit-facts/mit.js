@@ -1,3 +1,8 @@
+/***********************
+Jest testing - MIT facts
+***********************/
+
+
 var mit = {
     city: 'Cambridge',
     colors: ['Silver Gray', 'red'],

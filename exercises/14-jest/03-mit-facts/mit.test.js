@@ -1,4 +1,9 @@
-var utils  = require('course-utilities');
+/***********************
+Jest testing - MIT facts
+***********************/
+
+
+var utils = require('course-utilities');
 var mit = utils.load('./mit.js', 'mit');
 
 describe('MIT', () => {
@@ -14,12 +19,12 @@ describe('MIT', () => {
     });
 
     test('Colors match', () => {
-        expect(mit.colors).toContain('Silver Gray');    
+        expect(mit.colors).toContain('Silver Gray');
     });
 
     test('Founded range', () => {
         expect(mit.founded).toBeLessThanOrEqual(1875);
-        expect(mit.founded).toBeGreaterThanOrEqual(1850);    
+        expect(mit.founded).toBeGreaterThanOrEqual(1850);
     });
 
     test('Motto', () => {

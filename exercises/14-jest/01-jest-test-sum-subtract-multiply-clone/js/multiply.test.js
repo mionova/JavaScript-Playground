@@ -1,3 +1,8 @@
+/*****************************************************
+Jest testing - sum, substract, multiply, array cloning
+*****************************************************/
+
+
 const multiply = require('./multiply')
 
 //testing 1 * 2 === 2

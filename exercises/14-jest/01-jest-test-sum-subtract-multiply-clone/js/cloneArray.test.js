@@ -1,3 +1,8 @@
+/*****************************************************
+Jest testing - sum, substract, multiply, array cloning
+*****************************************************/
+
+
 const {
     expect
 } = require('@jest/globals')
