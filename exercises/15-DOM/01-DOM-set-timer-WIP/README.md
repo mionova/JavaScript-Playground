@@ -1,6 +1,6 @@
 ## Set timer
 
-Update dynamically an HTML page using JavaScript.
+Dynamic updates to an HTML page using JavaScript.
 
 ### Demo
 
