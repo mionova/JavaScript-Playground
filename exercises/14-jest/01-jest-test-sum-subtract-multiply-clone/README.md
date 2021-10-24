@@ -8,9 +8,9 @@ To start, run **npm init -y** in the project directory to initialize all the def
 
 To install Jest, run **npm i --save-dev jest** 
 
-When the installation is complete, go to package.json file and under scripts, change the value of “test” to “jest”.
+When the installation is complete, go to package.json file and under scripts, change the value of “test” to “jest” (or "jest --coverage" for more detailed feedback in the terminal).
 
-To verify that Jest has been properly installed (and to run the the actual tests later), run **npm test**.
+To verify that Jest has been properly installed (and to run the the actual tests later), run **npm test** 
 
 [View Jest tests](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/14-jest/01-jest-test-sum-subtract-multiply-clone/js)  
 
