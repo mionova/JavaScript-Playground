@@ -42,5 +42,6 @@ A collection of small projects and exercises from my JavaScript training.
 
 [reduce()](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/13-reduce)     
 
-[Unit Testing in JavaScript with Jest](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/14-jest)
-&nbsp;   
+[Unit Testing in JavaScript with Jest](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/14-jest)     
+
+[DOM](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/15-DOM)

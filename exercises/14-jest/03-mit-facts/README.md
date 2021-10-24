@@ -1,6 +1,6 @@
 ## MIT Facts
 
-Fixing failing tests.
+Task: Fix previously written failing tests.
 
 ### Notes on testing with Jest ###
 
