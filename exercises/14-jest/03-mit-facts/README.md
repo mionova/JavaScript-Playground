@@ -1,5 +1,7 @@
 ## MIT Facts
 
+Fixing failing tests.
+
 ### Notes on testing with Jest ###
 
 Unit Testing in JavaScript with Jest requires Node.js to be globally installed in the system.
