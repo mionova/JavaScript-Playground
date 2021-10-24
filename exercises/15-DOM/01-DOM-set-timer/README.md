@@ -4,7 +4,7 @@ Update dynamically an HTML page using JavaScript.
 
 ### Demo
 
-![Set timer demo](demo/demo.gif)
+<kbd>![Set timer demo](demo/demo.gif)</kbd>
 
 
 
