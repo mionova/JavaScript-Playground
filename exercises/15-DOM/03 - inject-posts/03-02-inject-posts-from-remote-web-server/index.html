@@ -1,0 +1,49 @@
+<!--**********************************
+DOM: Dinamically Inject Posts into Div
+***********************************-->
+
+<!--
+Task: 
+Get data from local file posts.js and inject it into Div
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=
+  , initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="container">
+        <!-- populated by JS-->
+    </div>
+    <script>
+        const url = "https://pollysnips.s3.amazonaws.com/posts.json";
+
+        function renderPosts(posts) {
+            const len = posts.length; // posts is an array
+            var html = '';
+            for (let i = 0; i < len; i++) {
+                html += '<li class="post">' +
+                    '<h2>' + posts[i].title + '</h2>' +
+                    '<h3>' + posts[i].content + '</h3>'
+            }
+            const container = document.getElementById('container')
+            container.innerHTML = '<ul>' + html + '</ul>';
+        };
+        // Get data from remote url using fetch 
+        async function getPosts(url) {
+            let response = await fetch(url);
+            let posts = await response.json();
+            renderPosts(posts);
+        }
+        getPosts(url);
+    </script>
+</body>
+
+</html>
