@@ -24,7 +24,7 @@ A collection of small projects and exercises from my JavaScript training.
 
 [Arrow functions](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/04-arrow-functions) 
 
-[ES6 Modules](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/05-es6modules)  
+[ES6 modules](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/05-es6modules)  
 
 [Scope of variables](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/06-scope-of-variables)  
 
@@ -42,6 +42,10 @@ A collection of small projects and exercises from my JavaScript training.
 
 [reduce()](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/13-reduce)     
 
-[Unit Testing in JavaScript with Jest](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/14-jest)     
+[Unit testing in JavaScript with Jest](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/14-jest)     
 
-[DOM](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/15-DOM)
+[DOM](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/15-DOM)   
+
+[Holy Grail](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/16-Holy-Grail)   
+
+[Applying styles programmatically](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/17-applying-styles)
