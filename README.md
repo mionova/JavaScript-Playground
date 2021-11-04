@@ -48,4 +48,6 @@ A collection of small projects and exercises from my JavaScript training.
 
 [Holy Grail](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/16-Holy-Grail)   
 
-[Applying styles programmatically](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/17-applying-styles)
+[Applying styles programmatically](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/17-applying-styles)  
+
+[Mouse movement detection](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/18-mouse-movement-detection)
