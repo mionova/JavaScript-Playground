@@ -1,0 +1,37 @@
+<!--************************************************
+Asynchronous programming - async, await - exercise 1
+*************************************************-->
+
+<!-- view the exectution in the browser console-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Async+await</title>
+</head>
+
+<body>
+  <script>
+    function resolveAfter2Seconds() {
+      return new Promise((resolve) => {
+        setTimeout(() => {
+          resolve('resolve');
+        }, 2000);
+      });
+    }
+
+    async function asyncCall() {
+      console.log('calling');
+      const result = await resolveAfter2Seconds();
+      console.log(result);
+    }
+
+    asyncCall();
+  </script>
+</body>
+
+</html>
