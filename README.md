@@ -50,4 +50,6 @@ A collection of small projects and exercises from my JavaScript training.
 
 [Applying styles programmatically](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/17-applying-styles)  
 
-[Mouse movement detection](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/18-mouse-movement-detection)
+[Mouse movement detection](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/18-mouse-movement-detection) 
+
+[Asynchronous programming](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/19-asynchronous-programming)
