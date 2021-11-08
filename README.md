@@ -54,4 +54,4 @@ A collection of small projects and exercises from my JavaScript training.
 
 [Asynchronous programming](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/19-asynchronous-programming)
 
-[Mapping and Maps APIs](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/20-mapping-maps-apis)
+[Mapping and Maps APIs](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/20-mapping-map-api)
