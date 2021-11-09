@@ -11,6 +11,8 @@ A collection of small projects and exercises from my JavaScript training.
 
 [Pac-Man excercise](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/pac-man)
 
+[Real time bus tracker](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/real-time-bus-tracker) 
+
 [Count word occurrence in a paragraph](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/word-count) 
 &nbsp;    
 
