@@ -1,0 +1,42 @@
+<!--****************************************
+Mapping and Map APIs - real-time bus tracker
+*****************************************-->
+
+<!-- Task: Using  GeoJSON data, create a heatmap of crime data from Chicago -->
+<!-- View the results in the console -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Real time bus tracker</title>
+</head>
+
+<body>
+	<script>
+		async function run() {
+			// get bus data    
+			const locations = await getBusLocations();
+			console.log(new Date());
+			console.log(locations);
+
+			// timer
+			setTimeout(run, 15000);
+		}
+
+		// Request bus data from MBTA
+		async function getBusLocations() {
+			const url = 'https://api-v3.mbta.com/vehicles?filter[route]=1&include=trip';
+			const response = await fetch(url);
+			const json = await response.json();
+			return json.data;
+		}
+
+		run();
+	</script>
+</body>
+
+</html>
