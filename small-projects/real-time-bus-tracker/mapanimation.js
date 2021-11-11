@@ -21,13 +21,15 @@ mapboxgl.accessToken =
 // map instance per mapbox documentation
 let map = new mapboxgl.Map({
   container: 'map',
-  style: 'mapbox://styles/mapbox/streets-v11',
+  style: 'mapbox://styles/ionova/ckvufiuqj2w8y15qpcji4qqe7',
   center: [-71.104081, 42.365554],
   zoom: 14,
 });
 
 // add marker to the map per mapbox documentation
-const marker = new mapboxgl.Marker()
+const marker = new mapboxgl.Marker({
+    "color": "#645EFD"
+  })
   .setLngLat([-71.092761, 42.357575])
   .addTo(map);
 
