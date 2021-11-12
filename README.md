@@ -57,3 +57,5 @@ A collection of small projects and exercises from my JavaScript training.
 [Asynchronous programming](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/19-asynchronous-programming)
 
 [Mapping and Map APIs](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/20-mapping-map-api)
+
+[Hash demo blockies](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/21-hash-demo-blockies)
