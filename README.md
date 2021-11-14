@@ -59,3 +59,5 @@ A collection of small projects and exercises from my JavaScript training.
 [Mapping and Map APIs](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/20-mapping-map-api)
 
 [Hash demo blockies](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/21-hash-demo-blockies)
+
+[Recursion](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/22-recursion)
