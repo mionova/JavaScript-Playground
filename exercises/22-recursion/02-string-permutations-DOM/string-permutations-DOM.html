@@ -52,6 +52,15 @@ Recursion: String permutations - DOM
     }
   }
 
+  /*
+  Alternative function setTags(permutation):
+    function setTags(permutation) {
+      tagArray.forEach((item, index) => {
+        item.innersText = permutation[index];
+      });
+    } 
+  */
+
   function step() {
     setTags(permutations[icount++]);
   }
