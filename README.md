@@ -61,3 +61,5 @@ A collection of small projects and exercises from my JavaScript training.
 [Hash demo blockies](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/21-hash-demo-blockies)
 
 [Recursion](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/22-recursion)
+
+[Rotate a matrix](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/23-rotate-matrix)
