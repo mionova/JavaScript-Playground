@@ -9,7 +9,9 @@ A collection of small projects and exercises from my JavaScript training.
 
 [Bouncy ball with edge detection](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/bouncy-ball)  
 
-[Pac-Man excercise](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/pac-man)
+[Pac-Man excercise](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/pac-man) 
+
+[Pac-Man factory](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/pac-man-factory)
 
 [Real time bus tracker](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/real-time-bus-tracker) 
 
@@ -63,3 +65,5 @@ A collection of small projects and exercises from my JavaScript training.
 [Recursion](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/22-recursion)
 
 [Rotate a matrix](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/23-rotate-matrix)
+
+[Hanoi Towel](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/24-hanoi-towel)

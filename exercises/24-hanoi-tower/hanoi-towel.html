@@ -1,0 +1,29 @@
+<!--***************
+Hanoi Towel Problem
+****************-->
+
+<!--
+This is a demo solution to the Hanoi Tower problem. Currently, this solution works for five disks.
+The first press of the "Make Move" button will load the Hanoi Tower. Every button press after that iterates through solving the Hanoi Tower. When the Hanoi Tower is solved, on the last button press, you will receive an alert stating Tower is Finished.
+-->
+
+<html>
+
+<head>
+  <link rel="stylesheet" href="./styles.css" />
+
+  <script src="./hanoi.js"></script>
+</head>
+
+<body>
+  <button onclick="makeMove()" id="makemove" width="40"> Make Move</button>
+  <div>
+    <input type="text" id="numDisk" name="numDisk">
+  </div>
+  <div class='game' id="game">
+  </div>
+
+  <script src="./tower.js"></script>
+</body>
+
+</html>
