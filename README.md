@@ -66,4 +66,4 @@ A collection of small projects and exercises from my JavaScript training.
 
 [Rotate a matrix](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/23-rotate-matrix)
 
-[Hanoi Towel](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/24-hanoi-towel)
+[Hanoi Tower](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/24-hanoi-tower)
