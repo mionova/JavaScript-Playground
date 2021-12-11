@@ -5,17 +5,19 @@ A collection of small projects and exercises from my JavaScript training.
 
 ## Small Projects
 
-[Boston city data](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/boston-city-data)  
+[Pac-Man factory](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/01-pac-man-factory)
 
-[Bouncy ball with edge detection](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/bouncy-ball)  
+[Mouse movement detection](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/02-mouse-movement-detection) 
 
-[Pac-Man excercise](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/pac-man) 
+[Real time bus tracker](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/03-real-time-bus-tracker) 
 
-[Pac-Man factory](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/pac-man-factory)
+[Boston city data](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/04-boston-city-data)  
 
-[Real time bus tracker](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/real-time-bus-tracker) 
+[Bouncy ball with edge detection](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/05-bouncy-ball)  
 
-[Count word occurrence in a paragraph](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/word-count) 
+[Pac-Man excercise](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/06-pac-man) 
+
+[Count word occurrence in a paragraph](https://github.com/mionova/JavaScript-Playground/tree/main/small-projects/07-word-count) 
 &nbsp;    
 
 ## Exercises
@@ -54,16 +56,14 @@ A collection of small projects and exercises from my JavaScript training.
 
 [Applying styles programmatically](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/17-applying-styles)  
 
-[Mouse movement detection](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/18-mouse-movement-detection) 
+[Asynchronous programming](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/18-asynchronous-programming)
 
-[Asynchronous programming](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/19-asynchronous-programming)
+[Mapping and Map APIs](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/19-mapping-map-api)
 
-[Mapping and Map APIs](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/20-mapping-map-api)
+[Hash demo blockies](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/20-hash-demo-blockies)
 
-[Hash demo blockies](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/21-hash-demo-blockies)
+[Recursion](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/21-recursion)
 
-[Recursion](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/22-recursion)
+[Rotate a matrix](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/22-rotate-matrix)
 
-[Rotate a matrix](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/23-rotate-matrix)
-
-[Hanoi Tower](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/24-hanoi-tower)
+[Hanoi Tower](https://github.com/mionova/JavaScript-Playground/tree/main/exercises/23-hanoi-tower)
